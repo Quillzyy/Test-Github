@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(17, 12, 12);
+}
+.header{
+    font-family: Segoe UI;
+    color: rgb(107, 83, 83);
+    text-align: center;
+}
+p{
+    font-family: Segoe Print;
+    color:white;
+}
