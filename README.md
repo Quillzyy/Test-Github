@@ -1,12 +1,17 @@
-<style>
-    
-    red { font-family: Audiowide; color: #00B3A1; font-size: 40px; text-align: center;}
-    yellow { color: yellow }
-    
-</style>
+<html>
+    <head>
+        <style>
 
-<red> Program elearning sederhana dengan bahasa c++!</red>
-<yellow> red color markdown text</yellow>
+            red { font-family: Audiowide; color: #00B3A1; font-size: 40px; text-align: center;}
+            yellow { color: yellow }
+
+        </style>
+    </head>
+    <body>
+        <red> Program elearning sederhana dengan bahasa c++!</red>
+        <yellow> red color markdown text</yellow>
+    </body>
+</html>
 
 <a href="https://pnj.ac.id/">
     <img src="https://accounts.pnj.ac.id/img/pnj.svg" alt="Logo PNJ" width="150px">
