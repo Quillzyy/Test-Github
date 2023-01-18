@@ -3,10 +3,10 @@
 <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
 <head>
 <body>
-    <h1 style="font-family: Audiowide; color: #00B3A1; font-size: 40px; line-height: 120%; text-align: center;">
-        Elearning Sederhana
+    <h1>
+    <span style="font-family: Audiowide; color: #00B3A1; font-size: 40px; line-height: 120%; text-align: center;">Elearning Sederhana</span>
     </h1>
-    <p style="text-align: center;">
+    <p align="center">
         Program elearning sederhana dengan bahasa c++!
     </p>
     <br>
